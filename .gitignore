@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+python-nlp/venv/
+python-nlp/__pycache__/
+.DS_Store
